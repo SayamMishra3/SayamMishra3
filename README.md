@@ -1,3 +1,8 @@
+<!-- 📌 GitHub Banner -->
+<p align="center">
+  <img src="https://github.com/SayamMishra3/SayamMishra3/raw/main/github-header-image.png" alt="Sayam Mishra Banner" width="1000" />
+</p>
+
 <h3 align="center">🚀 Java Backend Developer | Spring Boot | Hibernate | Microservices | MySQL</h3>
 
 ---
