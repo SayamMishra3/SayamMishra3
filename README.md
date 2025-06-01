@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Kafka and Spring Cloud**
 - 📫 Reach me at: **ssdmmishra456@gmail.com**
 - 💼 All of my projects are available at 👉 [Click here](https://github.com/SayamMishra3?tab=repositories)
-- ⚡ Fun fact: **Coffee + Code = Productivity**
+- ⚡ Fun fact: **horlicks&boost + Code = Productivity**
 
 ---
 
