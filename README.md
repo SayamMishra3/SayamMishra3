@@ -51,11 +51,11 @@
 ## 💻 Languages and Tools
 
 ### Backend:
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postman,git,github" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,kafka,aws,postman,git,github" alt="Backend Skills" />
 <br/>🔐 Spring Security (Manually Added)
 
 ### Tools:
-<img src="https://skillicons.dev/icons?i=eclipse,postman,git,maven" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=eclipse,mysql,postman,git,maven" alt="Tools" />
 
 ---
 
