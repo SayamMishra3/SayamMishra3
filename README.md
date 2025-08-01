@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="center">🚀 Java Backend Developer | Spring Boot | Hibernate | Microservices | MySQL</h3>
+<h3 align="center">🚀 Java8-23 | Spring Boot | Hibernate | Microservices | MySQL | Kafka | AWS(S3 & EC2)</h3>
 
 ---
 
